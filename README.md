@@ -40,8 +40,6 @@ I'm a detail-oriented and passionate data analytics enthusiast with a strong aca
 ## 📁 Projects
 
 - [📊 Prime Video Dashboard (Power BI)](https://github.com/SREEJITA1904/Prime-video-Dashboard-Project): Analyzed user engagement, top genres, and watch time patterns across Prime Video content.
-- [📈 Retail Sales EDA (Python)](https://github.com/sreejitaguha/retail-sales-eda): Cleaned and explored retail sales data to uncover trends and outliers using Python and data visualization libraries.
-- [📉 Excel-Based KPI Tracker](https://github.com/sreejitaguha/excel-kpi-tracker): Built an Excel dashboard to track KPIs and visualize performance metrics for fictional company datasets.
 
 ---
 
