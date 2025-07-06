@@ -53,6 +53,15 @@ I'm a detail-oriented and passionate data analytics enthusiast with a strong aca
 
 ---
 
+## 📊 GitHub Stats
+
+![Sreejita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SREEJITA1904&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SREEJITA1904&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SREEJITA1904&theme=radical)](https://git.io/streak-stats)
+
+
 _Thanks for visiting my profile! Let's connect and grow together in the data world._ 🚀
 
 
