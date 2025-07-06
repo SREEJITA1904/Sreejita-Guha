@@ -32,7 +32,7 @@ I'm a detail-oriented and passionate data analytics enthusiast with a strong aca
 ![Pandas](https://img.shields.io/badge/-Pandas-black)
 ![NumPy](https://img.shields.io/badge/-NumPy-purple)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-orange)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-red)
+![Django](https://img.shields.io/badge/-Django-darkgreen)
 ![GitHub](https://img.shields.io/badge/-GitHub-black)
 
 ---
